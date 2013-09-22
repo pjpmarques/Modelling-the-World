@@ -2,9 +2,7 @@ Modeling the World
 ==================
 
 A series of [IPython notebooks](http://ipython.org/notebook.html) containing mathematical 
-models of different objects (both from the real world and from abstract constructions).
-
-Check them out, live:
+models of different objects (both from the real world and from abstract constructions). Check them out, live:
 
 * [Lorenz Attractor](http://nbviewer.ipython.org/urls/raw.github.com/pjpmarques/Modelling-the-World/master/Lorenz%2520Attractor.ipynb)
 
