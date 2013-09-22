@@ -6,7 +6,7 @@ models of different objects (both from the real world and from abstract construc
 
 Live Visualizations
 ==================
-* TBD
+* [Lorenz Attractor](http://nbviewer.ipython.org/urls/raw.github.com/pjpmarques/Modelling-the-World/master/Lorenz%2520Attractor.ipynb)
 
 
 Installation and running locally
@@ -16,7 +16,7 @@ Installation and running locally
 
 2. Use [IPython notebook](http://ipython.org/notebook.html) to see them by running:
 
-`ipython notebook` 
+    `ipython notebook` 
 
 Make sure that you have the following packages installed:
 
