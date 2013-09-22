@@ -1,5 +1,5 @@
-Modeling the World and Artifacts 
-================================
+Modeling the World 
+==================
 
 A series of [IPython notebooks](http://ipython.org/notebook.html) containing mathematical 
 models of different objects (both from the real world and from abstract constructions).
@@ -9,14 +9,17 @@ Live Visualizations
 * [Lorenz Attractor](http://nbviewer.ipython.org/urls/raw.github.com/pjpmarques/Modelling-the-World/master/Lorenz%2520Attractor.ipynb)
 
 
-Installation and running locally
-================================
+Running them locally
+====================
 
 1. Checkout the repository to a local directory
 
 2. Use [IPython notebook](http://ipython.org/notebook.html) to see them by running:
 
-    `ipython notebook` 
+```
+$ cd Modeling-the-World
+$ ipython notebook
+``` 
 
 Make sure that you have the following packages installed:
 
