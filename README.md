@@ -5,7 +5,10 @@ A series of [IPython notebooks](http://ipython.org/notebook.html) containing mat
 models of different objects (both from the real world and from abstract constructions). Check them out, live:
 
 * [Lorenz Attractor](http://nbviewer.ipython.org/urls/raw.github.com/pjpmarques/Modelling-the-World/master/Lorenz%2520Attractor.ipynb)
+
 * [Mandelbrot Set](http://nbviewer.ipython.org/urls/raw.github.com/pjpmarques/Modelling-the-World/master/Mandelbrot%20Set.ipynb)
+
+* [Terminal Velocity](http://nbviewer.ipython.org/urls/raw.github.com/pjpmarques/Modelling-the-World/master/Terminal%20Velocity.ipynb)
 
 
 
